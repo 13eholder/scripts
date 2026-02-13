@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # 1. 手动删除目录
 rm -rf /home/zmy/.nvm/versions/node/v22.17.0/lib/node_modules/@google/gemini-cli
 
